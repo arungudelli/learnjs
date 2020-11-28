@@ -3907,13 +3907,6 @@ input:checked+.slider:before {
 	text-rendering: optimizeLegibility
 }
 
-
-.theme__light .single__contents h1,
-.theme__light .single__contents h2 {
-	color: #607d8b
-}
-
-
 .single__contents h1 {
 	font-size: 2.6rem;
 	margin: 3.5rem 0 1.75rem
