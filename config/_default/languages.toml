@@ -1,71 +1,71 @@
 [en]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "English"
   weight = 1
   contentdir = "content/en"
   
 [es]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Español"
   weight = 1
   contentdir = "content/es"  
 
 [de]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Deutsch"
   weight = 1
   contentdir = "content/de"  
 
 [fr]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Français"
   weight = 1
   contentdir = "content/fr"  
 
 [ja]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "日本語 (Japanese)"
   weight = 1
   contentdir = "content/ja"  
 
 [pt-PT]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Português"
   weight = 1
   contentdir = "content/pt-PT"  
 
 [pt-BR]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Português (Brasil)"
   weight = 1
   contentdir = "content/pt-BR"  
 
 [it]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Italiano"
   weight = 1
   contentdir = "content/it"  
 
 [nl]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Nederlands"
   weight = 1
   contentdir = "content/nl"  
 
 [pl]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Polski"
   weight = 1
   contentdir = "content/pl"  
 
 [ru]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "Русский (Russian)"
   weight = 1
   contentdir = "content/ru"  
 
 [zh]
-  title = "Is Website Down Today"
+  title = "Learn JavaScript"
   languageName = "简体中文 (simplified Chinese)"
   weight = 1
   contentdir = "content/zh"  

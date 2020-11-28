@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Is Website Down Today",
-  "short_name": "Is Website Down Today",
+  "name": "Learn JavaScript",
+  "short_name": "Learn JavaScript",
   "version": "1.0.0",
   "default_locale": "en",
-  "description": "Is Website Down Today",
+  "description": "Learn JavaScript",
   "start_url": "/",
   "icons": [
     {

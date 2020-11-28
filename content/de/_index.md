@@ -2,10 +2,10 @@
 title: Is Website Down Today
 description: Is Website down today ist ein kostenloses Online-Tool, mit dem überprüft werden kann, ob eine Website nicht verfügbar ist oder nicht.
 date: 2020-01-26T04:15:05+09:00
-draft: false
+draft: true
 ---
 
-**"Is Website down today"** ist ein kostenloses Online-Tool, mit dem überprüft werden kann, ob eine Website nicht verfügbar ist oder nicht.
+**"Learn JavaScript"** ist ein kostenloses Online-Tool, mit dem überprüft werden kann, ob eine Website nicht verfügbar ist oder nicht.
 
 Außerdem hilft es Ihnen herauszufinden, ob die Website für alle oder nur für Sie allein nicht verfügbar ist.
 

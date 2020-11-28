@@ -1,5 +1,5 @@
-baseURL = "https://iswebsitedown.today/"
-title = "Is Website Down Today"
+baseURL = "https://learnjavascript.guru/"
+title = "Learn JavaScript"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
