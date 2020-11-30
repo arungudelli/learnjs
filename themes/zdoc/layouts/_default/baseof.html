@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
-    <script src="js/enquire.min.js"></script>
+    <script src={{"js/enquire.min.js" | absURL}}></script>
     {{ partialCached "head/styles" . }}
     {{ partial "head/meta" . }}
     {{ partial "head/meta_json_ld" . }}
@@ -20,7 +20,7 @@
         {{ partial "footer/footer.html" . }}
     </div>
 
-<script src="js/site.js"></script>
+<script src={{"js/site.js" | absURL}}></script>
 <script>
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js').catch(function(err) {
