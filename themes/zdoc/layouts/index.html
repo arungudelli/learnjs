@@ -1,7 +1,8 @@
 {{ define "header" }}
- {{ partial "main/header.html" . }}
+  {{ partial "main/header.html" . }}
 {{ end }}
 {{ define "main" }}
-  <!-- {{ partial "main/home.html" . }} -->
-  {{ partial "main/single-home.html" . }}
+  {{ $section_to_display :=  .Sections }}
+  {{ partial "main/list.html" (dict "context" . "section_to_display" $section_to_display) }}
 {{ end }}
+

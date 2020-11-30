@@ -8,7 +8,7 @@
   </h6> -->
   <ul>
     {{ $root := . }}
-    {{ range (.Site.GetPage "section" .Type).Pages }}
+    {{ range .Site.Sections }}
       {{ template "render-menu" (dict "ctx" . "root" $root "depth" 0)}}
     {{ end }}
   </ul>
